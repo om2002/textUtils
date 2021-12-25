@@ -8,3 +8,5 @@ In this website You can Convert text to UpperCase , Convert text to lowerCase
 # There is Dark Mode option
 
 there is option for dark mode
+
+https://github.com/om2002/textUtils/blob/main/Screenshot%20(477).png
